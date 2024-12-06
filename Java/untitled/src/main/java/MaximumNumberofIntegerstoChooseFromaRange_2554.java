@@ -7,19 +7,3 @@ public class MaximumNumberofIntegerstoChooseFromaRange_2554 {
         System.out.println(maxCount(banned,4085,109718563));
     }
 
-    public static int maxCount(int[] banned, int n, int maxSum) {
-        Arrays.sort(banned);
-        int bannedLen = banned.length;
-        int num = 0, sum = 0, i = 0, current = 1;
-        while (i < bannedLen && current + sum <= maxSum && current<=n){
-            while(i < bannedLen - 1&& banned[i]<current)
-                i++;
-            if (banned[i] != current && current + sum <= maxSum){
-                num++;
-                sum += current;
-            }
-            current++;
-        }
-        return num;
-    }
-}
