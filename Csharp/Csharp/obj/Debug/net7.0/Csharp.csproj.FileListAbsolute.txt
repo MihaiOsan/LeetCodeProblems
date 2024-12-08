@@ -1,0 +1,15 @@
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/bin/Debug/net7.0/Csharp
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/bin/Debug/net7.0/Csharp.deps.json
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/bin/Debug/net7.0/Csharp.runtimeconfig.json
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/bin/Debug/net7.0/Csharp.dll
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/bin/Debug/net7.0/Csharp.pdb
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.csproj.AssemblyReference.cache
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfoInputs.cache
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.AssemblyInfo.cs
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.dll
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/refint/Csharp.dll
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.pdb
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/Csharp.genruntimeconfig.cache
+/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/Debug/net7.0/ref/Csharp.dll

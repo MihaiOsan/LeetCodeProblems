@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/C#/sumBinary_67/sumBinary_67/sumBinary_67.csproj": {}
+    "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/Csharp.csproj": {}
   },
   "projects": {
-    "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/C#/sumBinary_67/sumBinary_67/sumBinary_67.csproj": {
+    "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/Csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/C#/sumBinary_67/sumBinary_67/sumBinary_67.csproj",
-        "projectName": "sumBinary_67",
-        "projectPath": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/C#/sumBinary_67/sumBinary_67/sumBinary_67.csproj",
+        "projectUniqueName": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/Csharp.csproj",
+        "projectName": "Csharp",
+        "projectPath": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/Csharp.csproj",
         "packagesPath": "/Users/mihaiosan/.nuget/packages/",
-        "outputPath": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/C#/sumBinary_67/sumBinary_67/obj/",
+        "outputPath": "/Users/mihaiosan/Documents/LeetCode/LeetCodeProblems/Csharp/Csharp/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
